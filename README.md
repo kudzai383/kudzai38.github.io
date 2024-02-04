@@ -1,4 +1,3 @@
-theme: jekyll-Using Predictive Analysis with basic Spreadsheets to provide financial projections for Startup Businesses
 
 # UNITAR-Project-Business-Plan
 
